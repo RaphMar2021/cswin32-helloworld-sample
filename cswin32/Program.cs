@@ -28,7 +28,7 @@ namespace CsWin32
         static void Main(string[] args)
         {
             string CLASS_NAME = "Sample Window Class";
-            string WINDOW_NAME = "Learn to program Windows";
+            string WINDOW_NAME = "Learn how to program C#/Win32";
             char* CLASS_NAME_P = GetStringPointer(CLASS_NAME);
             char* WINDOW_NAME_P = GetStringPointer(WINDOW_NAME);
 
